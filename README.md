@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joelchirayath
-- 👀 I’m interested in HTML, Python, C++
-- 🌱 I’m currently learning all mentioned above
+- 👀 AI+ME
+- 🌱
 - 📫 How to reach me - in your own way. 
 <!---
 joelchirayath/joelchirayath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
