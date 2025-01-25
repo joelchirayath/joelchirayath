@@ -15,5 +15,5 @@ I'm Joel Chirayath, a beginner in software engineering.
 
 ### 📫 How to reach me:
 - Email: joeldvdrphl@gmail.com
-- LinkedIn: https://www.linkedin.com/in/joel-chirayath
+- LinkedIn: https://www.linkedin.com/in/joel-chirayath-5650432b8/
   
