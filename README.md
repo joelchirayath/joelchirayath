@@ -1,4 +1,19 @@
-<!---
-joelchirayath/joelchirayath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there! 👋 what up :)
+
+I'm Joel Chirayath, a beginner in software engineering.  
+💻 Certified cybersecurity professional.
+💻 Learning Python, C++, and Linux.  
+📚 First-year student at Vilnius University.  
+🚀 Interested in AI, robotics, and cybersecurity.
+
+### 🌱 What I'm working on:
+- Building simple Python automation scripts.
+- Learning GitHub workflows.
+- Exploring Arduino projects.
+- Pentesting
+- Learning networking
+
+### 📫 How to reach me:
+- Email: joeldvdrphl@gmail.com
+- LinkedIn: https://www.linkedin.com/in/joel-chirayath
+  
