@@ -7,11 +7,12 @@ I'm Joel Chirayath, a beginner in software engineering.
 🚀 Interested in AI, robotics, and cybersecurity.
 
 ### 🌱 What I'm working on:
-- Building simple Python automation scripts.
+- Building  Python automation scripts.
+- windows and linux bash scripts. 
 - Learning GitHub workflows.
 - Exploring Arduino projects.
-- Pentesting
-- Learning networking
+- Pentesting.
+- Learning networking.
 
 ### 📫 How to reach me:
 - Email: joeldvdrphl@gmail.com
