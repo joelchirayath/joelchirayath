@@ -19,7 +19,11 @@ I'm a beginner in software engineering, constantly learning and building cool st
 - 🔧 GitHub Actions & workflows  
 - 🤖 Arduino-based robotics projects  
 - 🛡️ Pentesting labs & tools  
-- 🌐 Learning computer networking fundamentals  
+- 🌐 Computer networking   
+- 🧠 Machine Learning with TensorFlow  
+- ⚙️ Object-Oriented Programming (OOP)  
+- 🖥️ Programming in C++, C#, and PHP  
+- 🏗️ Machine Design (Engineering, TMM)
 
 ---
 
